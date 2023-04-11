@@ -2,9 +2,11 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        ex1.Main.Parser("https://vk.com/eshilov7555777");
+        ex1.Main.Parser("vk.com/mixafonin");
     }
 }
 
+// открытый профиль vk.com/mixafonin
 // закрытый профиль https://vk.com/id163578691
 // много друзей https://vk.com/jesusavgn
+// несуществующий профиль vk.com/m1x4f0n1n
