@@ -2,7 +2,7 @@ import java.io.IOException;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        ex1.Main.Parser("https://vk.com/eshilov7777");
+        ex1.Main.Parser("vk.com/eshilov7777");
     }
 }
 
